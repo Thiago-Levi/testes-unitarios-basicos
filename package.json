@@ -1,0 +1,16 @@
+{
+  "name": "testes",
+  "version": "1.0.0",
+  "description": "testes unitários",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testes"
+  ],
+  "author": "Thiago Levi",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
